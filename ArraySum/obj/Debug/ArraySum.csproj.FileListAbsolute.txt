@@ -1,0 +1,8 @@
+C:\Users\aye22\source\repos\ArraySum\ArraySum\bin\Debug\ArraySum.exe.config
+C:\Users\aye22\source\repos\ArraySum\ArraySum\bin\Debug\ArraySum.exe
+C:\Users\aye22\source\repos\ArraySum\ArraySum\bin\Debug\ArraySum.pdb
+C:\Users\aye22\source\repos\ArraySum\ArraySum\obj\Debug\ArraySum.csproj.AssemblyReference.cache
+C:\Users\aye22\source\repos\ArraySum\ArraySum\obj\Debug\ArraySum.csproj.SuggestedBindingRedirects.cache
+C:\Users\aye22\source\repos\ArraySum\ArraySum\obj\Debug\ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\aye22\source\repos\ArraySum\ArraySum\obj\Debug\ArraySum.exe
+C:\Users\aye22\source\repos\ArraySum\ArraySum\obj\Debug\ArraySum.pdb
